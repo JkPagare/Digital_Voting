@@ -138,11 +138,11 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # Email details
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'jaikumar16723@gmail.com'
-EMAIL_HOST_PASSWORD = 'qddn llok wgfa choc'
+EMAIL_HOST_USER = '************'
+EMAIL_HOST_PASSWORD = '**************'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
 
 # 2Factor SMS API key
-TWO_FACTOR_API_KEY = '4d8d6d9a-c8a2-11ee-8cbb-0200cd936042'
+TWO_FACTOR_API_KEY = '***********'
